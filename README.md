@@ -21,7 +21,23 @@
 
 Настройте веб-сервер по Вашему выбору (Apache2 или nginx) таким образом, чтобы он поддерживал соединение по протоколу HTTPS. Для этого сгенирируйте самоподписанный сертификат SSL.
 
+![image](https://user-images.githubusercontent.com/92279258/146290831-bb514de3-89ca-41c9-9f7a-66f2763f9bd3.png)
+
 ![image](https://user-images.githubusercontent.com/92279258/146290698-c01a5e81-5c44-4b39-98fb-9ed4786d7f4d.png)
 
 ![image](https://user-images.githubusercontent.com/92279258/146290727-5c690bc7-50d8-4df0-8679-73ca19c33436.png)
+
+![image](https://user-images.githubusercontent.com/92279258/146290894-821c01b6-406d-4096-aea4-8b0fce3979e7.png)
+
+![image](https://user-images.githubusercontent.com/92279258/146290909-12e9f2cf-603e-4cda-92da-500ac8d75ae3.png)
+
+Модифицируйте код вашего сервиса таким образом, чтобы он поддерживал защищенное соединение.
+
+![image](https://user-images.githubusercontent.com/92279258/146290975-c1948770-e832-4acc-867a-1619323fe812.png)
+
+![image](https://user-images.githubusercontent.com/92279258/146290992-bfd75d67-0339-49b5-9103-51fe7ee3d7e0.png)
+
+![image](https://user-images.githubusercontent.com/92279258/146291050-8fefca3d-9bc3-4a0b-8c67-046615d02dca.png)
+
+
 
